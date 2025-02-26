@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adish Poojary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400"/>
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45864171/120090865-e50b4a00-c131-11eb-80c0-62d580a6f99e.gif" alt="coding-gif" width="500"/>
 </p>

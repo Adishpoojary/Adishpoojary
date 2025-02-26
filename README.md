@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adish Poojary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400"/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45864171/120090865-e50b4a00-c131-11eb-80c0-62d580a6f99e.gif" alt="coding-gif" width="500"/>
 </p>
-
----
 
 <h3 align="center">💼 Connect with me:</h3>
 <p align="center">
@@ -13,8 +11,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adish Poojary LinkedIn" height="40" width="50" />
   </a>
 </p>
-
----
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
@@ -38,8 +34,6 @@
   </a>
 </p>
 
----
-
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adishpoojary&show_icons=true&theme=radical&bg_color=000000&locale=en&layout=compact" alt="adishpoojary" />
@@ -49,9 +43,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adishpoojary&show_icons=true&theme=radical&bg_color=000000&locale=en" alt="adishpoojary-stats" />
 </p>
 
----
-
-<h3 align="center">✨ Inspirational Quote:</h3>
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
-</p>

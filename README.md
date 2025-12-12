@@ -3,10 +3,6 @@
 <h3 align="center">A passionate frontend developer from India (also working on AI / ML)</h3>
 
 <p align="center">
-  <a href="./Adish_Poojary_Resume.pdf" target="_blank" title="Download Resume">📄 View / Download Resume</a>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400"/>
 </p>
 
@@ -24,30 +20,6 @@
   <li>🛠️ Skilled in building <b>AI-powered applications</b>, <b>AIML</b> solutions and modern <b>MERN/Next.js</b> projects</li>
   <li>🏆 Hackathon Enthusiast – Secured <b>Runner-up</b> & <b>Top-10 positions</b> in state and national hackathons</li>
 </ul>
-
-<hr/>
-
-<h2 id="projects" align="left">🚀 Selected Projects</h2>
-
-<ul>
-  <li><b>Blood Group Detection using Fingerprints</b> — PyTorch, TensorFlow, Flask (2024)
-    <br/>Developed a CNN-based system to classify blood groups from fingerprint images using augmentation and normalization.
-  </li>
-
-  <li><b>NOVA – AI Voice Assistant with GUI</b> — Python, PyQt5, Deepgram, gTTS, OpenCV (2025)
-    <br/>Voice-driven assistant with GUI, system automation, Wikipedia queries, email sending and webcam streaming features.
-  </li>
-
-  <li><b>AI Powered Code Reviewer</b> — MERN Stack, Google Gemini API (2024)
-    <br/>Real-time code review platform integrating Gemini API for automated feedback, bug detection and best-practice suggestions.
-  </li>
-
-  <li><b>Expensive Tracker AI</b> — Next.js, Prisma, Clerk, DeepSeek API, PostgreSQL (2025)
-    <br/>Secure expense tracker with AI-based expense categorization and personalized insights.
-  </li>
-</ul>
-
-<hr/>
 
 <h3 align="center">💼 Connect with me:</h3>
 <p align="center">

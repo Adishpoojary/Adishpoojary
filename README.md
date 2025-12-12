@@ -1,15 +1,57 @@
+<!-- README.md for Adish Poojary -->
 <h1 align="center">Hi 👋, I'm Adish Poojary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India (also working on AI / ML)</h3>
+
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400"/>
+  <a href="./Adish_Poojary_Resume.pdf" target="_blank" title="Download Resume">📄 View / Download Resume</a>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400"/>
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45864171/120090865-e50b4a00-c131-11eb-80c0-62d580a6f99e.gif" alt="coding-gif" width="500"/>
 </p>
 
+<hr/>
+
+<h2 id="about" align="left">👨‍💻 About Me</h2>
+
+<ul>
+  <li>🎓 Pursuing <b>B.E. in Computer Science</b> at SMVITM, Udupi (2022 – 2026)</li>
+  <li>💡 Passionate about <b>AI/ML, Full-Stack Development</b>, and Open Source</li>
+  <li>🛠️ Skilled in building <b>AI-powered applications</b>, <b>AIML</b> solutions and modern <b>MERN/Next.js</b> projects</li>
+  <li>🏆 Hackathon Enthusiast – Secured <b>Runner-up</b> & <b>Top-10 positions</b> in state and national hackathons</li>
+</ul>
+
+<hr/>
+
+<h2 id="projects" align="left">🚀 Selected Projects</h2>
+
+<ul>
+  <li><b>Blood Group Detection using Fingerprints</b> — PyTorch, TensorFlow, Flask (2024)
+    <br/>Developed a CNN-based system to classify blood groups from fingerprint images using augmentation and normalization.
+  </li>
+
+  <li><b>NOVA – AI Voice Assistant with GUI</b> — Python, PyQt5, Deepgram, gTTS, OpenCV (2025)
+    <br/>Voice-driven assistant with GUI, system automation, Wikipedia queries, email sending and webcam streaming features.
+  </li>
+
+  <li><b>AI Powered Code Reviewer</b> — MERN Stack, Google Gemini API (2024)
+    <br/>Real-time code review platform integrating Gemini API for automated feedback, bug detection and best-practice suggestions.
+  </li>
+
+  <li><b>Expensive Tracker AI</b> — Next.js, Prisma, Clerk, DeepSeek API, PostgreSQL (2025)
+    <br/>Secure expense tracker with AI-based expense categorization and personalized insights.
+  </li>
+</ul>
+
+<hr/>
+
 <h3 align="center">💼 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/adish-poojary?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/adish-poojary?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adish Poojary LinkedIn" height="40" width="50" />
   </a>
 </p>
@@ -44,3 +86,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adishpoojary&show_icons=true&theme=radical&bg_color=000000&locale=en" alt="adishpoojary-stats" />
 </p>
+
+<hr/>
+
+<p align="center">Made with ❤️ • <em>Open to collaboration — especially AI/ML & web projects</em></p>
